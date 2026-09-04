@@ -1,3 +1,5 @@
+package assignment;
+
 public class WordReversalEncoder {
 
     static String reverseEachWord(String sentence) {

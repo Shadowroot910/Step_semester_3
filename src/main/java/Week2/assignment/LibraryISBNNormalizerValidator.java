@@ -1,3 +1,5 @@
+package assignment;
+
 public class LibraryISBNNormalizerValidator {
 
     static String normalizeCode(String raw) {

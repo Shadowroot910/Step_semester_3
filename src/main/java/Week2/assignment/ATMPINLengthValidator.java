@@ -1,3 +1,5 @@
+package assignment;
+
 public class ATMPINLengthValidator {
 
     static void checkPinLength(String pin) {

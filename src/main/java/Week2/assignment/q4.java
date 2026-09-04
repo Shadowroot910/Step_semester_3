@@ -1,3 +1,5 @@
+package assignment;
+
 public class q4 {
 
     static String normalizeCode(String raw) {
