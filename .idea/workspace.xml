@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3883e14c-b974-49bd-a845-ee56a6841756" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week1/practice_problem/BMICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week1/practice_problem/FirstNonRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week1/practice_problem/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week1/practice_problem/ReverseCustomerName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week1/practice_problem/RockPaperScissors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Week2/ATMPINLengthValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Week2/LibraryISBNNormalizerValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Week2/StopWordFilteredWordFrequencyReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Week2/WordReversalEncoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Week2/q4.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3IdmKeMWDZ4eGtcU8JKmQEQ7h0x" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BMICalculator.executor": "Run",
+    "Application.FirstNonRepeatingCharacter.executor": "Run",
+    "Application.RockPaperScissors.executor": "Run",
+    "Application.level1.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "week2",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gchim/OneDrive/Desktop/Step-semister3",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3883e14c-b974-49bd-a845-ee56a6841756" name="Changes" comment="" />
+      <created>1788102756575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788102756575</updated>
+    </task>
+    <servers />
+  </component>
+</project>
