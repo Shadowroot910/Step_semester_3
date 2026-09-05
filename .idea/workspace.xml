@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3883e14c-b974-49bd-a845-ee56a6841756" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week1/practice_problem/BMICalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week1/practice_problem/FirstNonRepeatingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week1/practice_problem/PalindromeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week1/practice_problem/ReverseCustomerName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week1/practice_problem/RockPaperScissors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Week2/ATMPINLengthValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Week2/LibraryISBNNormalizerValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Week2/StopWordFilteredWordFrequencyReport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Week2/WordReversalEncoder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Week2/q4.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/practice/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/practice/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/practice/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/practice/Problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/practice/Problem5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Step-semister3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Step-semister3.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +54,9 @@
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "week2",
+    "git-widget-placeholder": "week4",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/gchim/OneDrive/Desktop/Step-semister3",
